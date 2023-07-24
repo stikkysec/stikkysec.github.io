@@ -5,7 +5,7 @@ description: "My Information/Cyber Security Portfolio" # This will show up in pl
 #Email / Social media user names used by the minima theme:
 #All of these are optional and can be removed or commented out
 email: "jlinsday@proton.me"
-#twitter_username: "twitteruser"
+Try_Hack_Me_username: "stikky"
 #github_username: "githubuser"
 #linkedin_username: "linkedinuser"
 #facebook_username: username
@@ -14,8 +14,7 @@ email: "jlinsday@proton.me"
 #pinterest_username: username
 #youtube_username: username
 #googleplus_username: +username
-Try_Hack_Me_username: "stikky"
-Hack_The_Box_username: "Stikky"
+
 
 
 #########################################################################################
